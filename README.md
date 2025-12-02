@@ -2,8 +2,12 @@
 
 Interim Project for JDE08 Course (P2)
 
+
+
 Project Description :
 In this project, one assigned a task to explore/source for different types of data, building one’s “data crawler” and store the crawled data in a Database Management System (DBMS), building a data pipeline. The database design should also be included in this project.
+
+
 
 Project Objectives :
 
